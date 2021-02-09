@@ -1,11 +1,13 @@
-# katie
-My portfolio page
-
 # About me
-........
+Hi! My name is Katie (she/her) and welcome to my page! :grinning:
 
-# What I hope to learn
-.........
+I'm a second-year Masters student at CMU studying MBA and Public Policy. I am originally from Beijing, China and I'd like to take this opportunity to wish you a Happy New Year of the Ox if you also celebrate the lunar new year! 
+
+My hobbies include watching horror movies, spending time with animals and travelling (among other stuff). Since COVID I have become a succulent enthusiast and acquired a few random skills such as patching up old and weirdly shaped stuffed animals. If you would like a little succulent plant (for free), let me know!   
+
+## What I hope to learn
+
+In my previous job, I rarely worked with quantitative data but often had to write lenghty reports or make presentations. I enjoyed the process of building an argument and expressing ideas, but regretted that I was only able to leverage and present data in simple and often boring ways. I hope to learn the thought/design process that goes behind data visialization as well as the different ways to present data in creative, effective and appealing styles. 
 
 # Portfolio
-:grinning:
+
