@@ -9,5 +9,5 @@ My hobbies include watching horror movies, spending time with animals and travel
 
 In my previous job, I rarely worked with quantitative data but often had to write lenghty reports or make presentations. I enjoyed the process of building an argument and expressing ideas, but regretted that I was only able to leverage and present data in simple and often boring ways. I hope to learn the thought/design process that goes behind data visialization as well as the different ways to present data in creative, effective and appealing styles. 
 
-# Portfolio
+## Portfolio
 
