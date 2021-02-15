@@ -15,5 +15,5 @@ In my previous job, I rarely worked with quantitative data but often had to writ
 
 ## Portfolio
 
-Feb 13, 2021 - Visualizing government debt 
-[OECD Government debt ratio in 2019](oecd.md)
+Feb 14, 2021 - Visualizing government debt 
+[Different methods to visualize debt-to-GDP ratio among OECD members](oecd.md)
