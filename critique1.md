@@ -7,10 +7,10 @@
 **Step one - decide what to improve**
 
 I believed there are four things I can do to improve the visualization:
-* 1. Add a title
-* 2. Tidy up the legends
-* 3. Clarify what is meant by "food away from home"
-* 4. Find a more intuitive way to visualize the data (different chart format)
+* Add a title
+* Tidy up the legends
+* Clarify what is meant by "food away from home"
+* Find a more intuitive way to visualize the data (different chart format)
 
 **Step two - research and wireframe my ideas**
 
