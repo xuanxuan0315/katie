@@ -5,6 +5,7 @@
 # My process
 
 **Step one - decide what to improve**
+
 I believed there are four things I can do to improve the visualization:
 * 1. Add a title
 * 2. Tidy up the legends
@@ -35,6 +36,7 @@ Line chart: Having done this week's exercises, which encouraged us to explore di
 # My redesign 
 
 My title clarifies my focus on top spenders, though there are really multiple pieces of interesting information..so I used the subtitle to draw some attention to a secondary "fun fact". Finally, I used the small text to make sure my audience is able to understand exactly what the graph intends to convey. I am aware that this visual has quite some text, but after some consideration, I decided it's best to still keep it the way it is.
+
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5360712"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
