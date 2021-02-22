@@ -1,8 +1,8 @@
-#My choice for critique
+# My choice for critique
 
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=BgQr&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 
-#My process
+# My process
 
 **Step one - decide what to improve**
 I believed there are four things I can do to improve the visualization:
@@ -32,7 +32,7 @@ Stacked bar chart: M liked the idea. She thought it looks much more neat and mod
 
 Line chart: Having done this week's exercises, which encouraged us to explore different formats other than line charts, I really wanted to avoid it! However, in the end, both my two friends and I all agreed it made the most sense, was the easiest for the audience to process and looked the cleanest.
  
-#My redesign 
+# My redesign 
 
 My title clarifies my focus on top spenders, though there are really multiple pieces of interesting information..so I used the subtitle to draw some attention to a secondary "fun fact". Finally, I used the small text to make sure my audience is able to understand exactly what the graph intends to convey. I am aware that this visual has quite some text, but after some consideration, I decided it's best to still keep it the way it is.
 
