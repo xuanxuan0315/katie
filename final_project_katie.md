@@ -35,7 +35,7 @@ From a cultural and psychological perspective:
 *	History of lipsticks
 *	Lipstick often carries a personality statement: optimism, courage and defiance 
 
-**End – Leave audience with some cheerful thoughts by ending on lighthearted note 
+**End – Leave audience with some cheerful thoughts by ending on lighthearted note** 
 
 
 # Sketch
