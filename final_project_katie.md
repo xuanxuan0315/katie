@@ -5,7 +5,7 @@ Since the pandemic and the lockdown, sweatpants, unwashed face and messy hair se
 
 # Structure
 
-**Start - Invite audience to participate:**. 
+**Start - Invite audience to participate:**   
 All the lipstick lovers, before the pandemic turned our lives upside down, do you remember how often you used lipsticks? Once a day? Twice a week?
 
 Mmhmm, you are not alone. We all love them. (lipstick usage frequency chart, 2011-2019)
@@ -13,7 +13,7 @@ Mmhmm, you are not alone. We all love them. (lipstick usage frequency chart, 201
 **Encourage audience to make a guess and stay curious:**  
 How about after COVID hit? when was the last time you slapped some color on your lips? Days? Weeks?
 
-**Surprise them with results they probably weren’t expecting:**. 
+**Surprise them with results they probably weren’t expecting:**   
 I know, who would bother buying lipstick when everyone is working from home and wearing masks? – Can you imagine what other sane lipstick wearer said?  (lipstick usage frequency chart, 2020)
 
 Did that surprise you? Yep, we are still using lipsticks, even last year! 
@@ -39,7 +39,7 @@ From a cultural and psychological perspective:
 
 
 # Sketch
-My (intended) reader journey
+My (intended) reader journey  
 <img width="1500" alt="Screen Shot 2021-02-28 at 20 51 09" src="https://user-images.githubusercontent.com/78333023/109442646-cb0dbe00-7a06-11eb-9fd6-9691a2252deb.png">
 
 # Supporting Data
