@@ -14,14 +14,16 @@ Mmhmm, you are not alone. We all love them. (lipstick usage frequency chart, 201
 How about after COVID hit? when was the last time you slapped some color on your lips? Days? Weeks?
 
 **Surprise them with results they probably weren’t expecting:**
-/I know, who would bother buying lipstick when everyone is working from home and wearing masks? – Can you imagine what other sane lipstick wearer said?  (lipstick usage frequency chart, 2020)
+
+I know, who would bother buying lipstick when everyone is working from home and wearing masks? – Can you imagine what other sane lipstick wearer said?  (lipstick usage frequency chart, 2020)
 
 Did that surprise you? Yep, we are still using lipsticks, even last year! 
 
 In fact, we are not just using the old lipsticks for the sake of not letting them go to waste – we are still buying, too!  (lipstick sales, 2020)
 
 **Encourage them to keep on reading to find out:**
-/Why is that?! Well, there may be a couple reasons.
+
+Why is that?! Well, there may be a couple reasons.
 
 From a behavioral economics perspective: “the Lipstick index”
 *	What it is
