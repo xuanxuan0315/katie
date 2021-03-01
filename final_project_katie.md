@@ -40,7 +40,7 @@ From a cultural and psychological perspective:
 
 # Sketch
 My (intended) reader journey
-<img width="702" alt="Screen Shot 2021-02-28 at 20 51 09" src="https://user-images.githubusercontent.com/78333023/109442646-cb0dbe00-7a06-11eb-9fd6-9691a2252deb.png">
+<img width="1000" alt="Screen Shot 2021-02-28 at 20 51 09" src="https://user-images.githubusercontent.com/78333023/109442646-cb0dbe00-7a06-11eb-9fd6-9691a2252deb.png">
 
 # Supporting Data
 Data source: Statista
