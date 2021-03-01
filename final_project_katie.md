@@ -1,8 +1,10 @@
 #Outline
+
 Since the pandemic and the lockdown, sweatpants, unwashed face and messy hair seem to have become a new way of life for many of us working from home. As a result, some industry experts predicted that one of the hardest-hit sectors would be cosmetics. Within cosmetics, lipsticks would be the biggest victim for obvious reasons. However, data shows it hasn’t been the case. My story aims to explain why it isn’t what we thought. 
 
 
 #Structure
+
 1.	Start - Invite audience to participate:
 All the lipstick lovers, before the pandemic turned our lives upside down, do you remember how often you used lipsticks? Once a day? Twice a week?
 
