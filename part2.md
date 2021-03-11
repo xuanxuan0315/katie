@@ -1,5 +1,6 @@
 # Part 2  
 For reference, see [Part 1](final_project_katie.md)
+[Back to main page](README.md)
 
 ## Persona
 I generated three personas that I imagine would likely be my audience. Overall, I expect the majority of my audience to be females between 20-50 with bachelor’s or master’s degrees. I expect most of them, if they are not students, to have backgrounds in sales, retail, marketing, communication or general management/project management. I also expect a small number of people who don’t relate much to the beauty industry to be interested in the story just because they are a little curious. These people would be mostly males, between 20 – 45, who are also college educated (or above) and could be from any sector but in particular sectors that are exposed to diverse information, such as consulting and marketing. 
@@ -69,4 +70,4 @@ While some of the economy-related data will end up as line charts or bar charts,
 ![6](https://user-images.githubusercontent.com/78333023/110736677-163f8200-81fa-11eb-8c99-5f8c92dbecf4.png)
 ![7](https://user-images.githubusercontent.com/78333023/110736678-1770af00-81fa-11eb-884e-dce77d4f4941.png)
 
-[Back](README.md)
+[Back to main page](README.md)
