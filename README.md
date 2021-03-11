@@ -1,13 +1,13 @@
 # About me
-Hi! My name is Katie (she/her) and welcome to my page! :grinning:
+Hi! My name is Katie (she/her) and welcome to my page! 
 
 I'm a second-year Masters student at CMU studying MBA and Public Policy. I am originally from Beijing, China and I'd like to take this opportunity to wish you a Happy New Year of the Ox if you also celebrate the lunar new year! 
 
 My hobbies include watching horror movies, spending time with animals and travelling (among other stuff). Since COVID I have become a succulent enthusiast and acquired a few random skills such as patching up old and weirdly shaped stuffed animals. If you would like a little succulent plant (for free), let me know!
 
-<img width="726" alt="Screen Shot 2021-02-08 at 23 19 08" src="https://user-images.githubusercontent.com/78333023/107315126-123a0c00-6a64-11eb-9508-279a287705b9.png">
+<img width="400" alt="Screen Shot 2021-02-08 at 23 19 08" src="https://user-images.githubusercontent.com/78333023/107315126-123a0c00-6a64-11eb-9508-279a287705b9.png">
 
-<img width="726" alt="Screen Shot 2021-02-08 at 23 18 18" src="https://user-images.githubusercontent.com/78333023/107315071-f33b7a00-6a63-11eb-8437-bfd269636023.png">
+<img width="400" alt="Screen Shot 2021-02-08 at 23 18 18" src="https://user-images.githubusercontent.com/78333023/107315071-f33b7a00-6a63-11eb-8437-bfd269636023.png">
 
 ## What I hope to learn
 
@@ -17,3 +17,12 @@ In my previous job, I rarely worked with quantitative data but often had to writ
 
 Feb 14, 2021 - Visualizing government debt 
 [Different methods to visualize debt-to-GDP ratio among OECD members](oecd.md)
+
+Feb 21, 2021 - Criqitue and create
+[A critique on a set of data visualization](critique1.md)
+
+Mar 3, 2021 - Starting my final project
+[Part 1: exploring ideas](final_project_katie.md)
+
+Mar 10, 2021 - Filling in more details for the final project
+[Part 2: planning the story](part2.md)
