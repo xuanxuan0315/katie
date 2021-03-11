@@ -1,12 +1,13 @@
 ## Part 2
 
 # Persona
-I generated three personas that I imagine would likely be my audience. Overall, I expect the majority of my audience to be females between 20-50 with bachelor’s or master’s degrees. I expect most of them, if they are not students, to have backgrounds in sales, retail, marketing, communication or general management/project management. I also expect a small number of people who don’t relate much to the beauty industry to be interested in the story just because they are a little curious. These people would be mostly males, between 20 – 45, who are also college educated (or above) and could be from any sector but in particular sectors that are exposed to diverse information, such as consulting and marketing. ![image](https://user-images.githubusercontent.com/78333023/110735088-15592100-81f7-11eb-9dbf-f3dd2dd00517.png)
+I generated three personas that I imagine would likely be my audience. Overall, I expect the majority of my audience to be females between 20-50 with bachelor’s or master’s degrees. I expect most of them, if they are not students, to have backgrounds in sales, retail, marketing, communication or general management/project management. I also expect a small number of people who don’t relate much to the beauty industry to be interested in the story just because they are a little curious. These people would be mostly males, between 20 – 45, who are also college educated (or above) and could be from any sector but in particular sectors that are exposed to diverse information, such as consulting and marketing. 
 <img width="645" alt="Screen Shot 2021-03-10 at 23 21 27" src="https://user-images.githubusercontent.com/78333023/110735233-6406bb00-81f7-11eb-9543-2bb3afd9cc7c.png">
+
 Based on these personas, I selected three interviewees that best match them
 
 # Interview
-<img width="410" alt="Screen Shot 2021-03-10 at 23 23 24" src="https://user-images.githubusercontent.com/78333023/110735348-a29c7580-81f7-11eb-8d4e-27993216a60e.png">
+<img width="610" alt="Screen Shot 2021-03-10 at 23 23 24" src="https://user-images.githubusercontent.com/78333023/110735348-a29c7580-81f7-11eb-8d4e-27993216a60e.png">
 
 Key concerns I wanted answers for:
 
@@ -47,6 +48,7 @@ Key concerns I wanted answers for:
 While some of the economy-related data will end up as line charts or bar charts, I will try to make the rest of the data look more interesting, for example:
 
 * Data demostrating the drop in luxury goods sale in tiem of crisis:
+
 <img width="270" alt="Screen Shot 2021-03-10 at 23 29 25" src="https://user-images.githubusercontent.com/78333023/110735919-b8f70100-81f8-11eb-8001-43fd70cbe3a9.png">
 
 * Data showing employment
@@ -58,5 +60,10 @@ While some of the economy-related data will end up as line charts or bar charts,
 # Wireframe:
 ![1 - big title (Alternate 351v)](https://user-images.githubusercontent.com/78333023/110736180-3884d000-81f9-11eb-9f44-fab571568d2f.png)
 ![2](https://user-images.githubusercontent.com/78333023/110736207-40447480-81f9-11eb-91ec-935428cf222f.png)
+![3](https://user-images.githubusercontent.com/78333023/110736664-12136480-81fa-11eb-8232-91bb67d0da35.png)
+![4](https://user-images.githubusercontent.com/78333023/110736671-13449180-81fa-11eb-85f3-46d62dc64608.png)
+![5](https://user-images.githubusercontent.com/78333023/110736674-1475be80-81fa-11eb-884f-963df08cc146.png)
+![6](https://user-images.githubusercontent.com/78333023/110736677-163f8200-81fa-11eb-8c99-5f8c92dbecf4.png)
+![7](https://user-images.githubusercontent.com/78333023/110736678-1770af00-81fa-11eb-884e-dce77d4f4941.png)
 
 
