@@ -15,14 +15,14 @@ In my previous job, I rarely worked with quantitative data but often had to writ
 
 ## Portfolio
 
-Feb 14, 2021 - Visualizing government debt 
+Feb 14, 2021 - Visualizing government debt: 
 [Different methods to visualize debt-to-GDP ratio among OECD members](oecd.md)
 
-Feb 21, 2021 - Criqitue and create
+Feb 21, 2021 - Criqitue and create:
 [A critique on a set of data visualization](critique1.md)
 
-Mar 3, 2021 - Starting my final project
+Mar 3, 2021 - Starting my final project:
 [Part 1: exploring ideas](final_project_katie.md)
 
-Mar 10, 2021 - Filling in more details for the final project
+Mar 10, 2021 - Filling in more details for the final project:
 [Part 2: planning the story](part2.md)
