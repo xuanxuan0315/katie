@@ -48,14 +48,16 @@ Key concerns I wanted answers for:
 ## Visualization ideas:
 While some of the economy-related data will end up as line charts or bar charts, I will try to make the rest of the data look more interesting, for example:
 
-* Data demostrating the drop in luxury goods sale in tiem of crisis:
+* Data demostrating the drop in luxury goods sale in time of crisis:
 
 <img width="270" alt="Screen Shot 2021-03-10 at 23 29 25" src="https://user-images.githubusercontent.com/78333023/110735919-b8f70100-81f8-11eb-8001-43fd70cbe3a9.png">
 
 * Data showing employment
+
 <img width="339" alt="Screen Shot 2021-03-10 at 23 29 53" src="https://user-images.githubusercontent.com/78333023/110735962-cb713a80-81f8-11eb-8f91-1f7e60fec808.png">
 
 * Data showing loss in GDP
+
 <img width="412" alt="Screen Shot 2021-03-10 at 23 30 55" src="https://user-images.githubusercontent.com/78333023/110736023-e80d7280-81f8-11eb-9765-a129e2fb0099.png">
 
 ## Wireframe:
