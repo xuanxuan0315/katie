@@ -1,5 +1,5 @@
 # Part 2  
-For reference, see [Part 1](final_project_katie.md)
+For reference, see [Part 1](final_project_part1.md)
 
 [Back to main page](README.md)
 
