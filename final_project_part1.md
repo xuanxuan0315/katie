@@ -1,9 +1,11 @@
-# Outline
+# Part 1
+
+## Outline
 
 Since the pandemic and the lockdown, sweatpants, unwashed face and messy hair seem to have become a new way of life for many of us working from home. As a result, some industry experts predicted that one of the hardest-hit sectors would be cosmetics. Within cosmetics, lipsticks would be the biggest victim for obvious reasons. However, data shows it hasn’t been the case. My story aims to explain why it isn’t what we thought. 
 
 
-# Structure
+## Structure
 
 **Start - Invite audience to participate:**   
 All the lipstick lovers, before the pandemic turned our lives upside down, do you remember how often you used lipsticks? Once a day? Twice a week?
@@ -38,11 +40,11 @@ From a cultural and psychological perspective:
 **End – Leave audience with some cheerful thoughts by ending on lighthearted note** 
 
 
-# Sketch
+## Sketch
 My (intended) reader journey  
 <img width="1500" alt="Screen Shot 2021-02-28 at 20 51 09" src="https://user-images.githubusercontent.com/78333023/109442646-cb0dbe00-7a06-11eb-9fd6-9691a2252deb.png">
 
-# Supporting Data
+## Supporting Data
 Data source: Statista
 Files: [click here](https://cmu.box.com/s/stqzz1d1g57jx0g9yvg3ann2wgtb7u00)
 
