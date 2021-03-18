@@ -2,6 +2,7 @@
 
 * [Part 2](final_project_part2.md)
 * [Part 3](final_project_part3.md)
+
 [Back to main page](README.md)
 
 ## Outline
