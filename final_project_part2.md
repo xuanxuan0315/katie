@@ -1,6 +1,7 @@
 # Part 2  
-For reference, see [Part 1](final_project_part1.md)
 
+* [Part 1](final_project_part1.md)
+* [Part 3(]final_project_part3.md)
 [Back to main page](README.md)
 
 ## Persona
