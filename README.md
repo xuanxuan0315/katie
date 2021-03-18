@@ -22,7 +22,10 @@ Feb 21, 2021 - Criqitue and create:
 [A critique on a set of data visualization](critique1.md)
 
 Mar 3, 2021 - Starting my final project:
-[Part 1: exploring ideas](final_project_katie.md)
+[Part 1: exploring ideas](final_project_part1.md)
 
 Mar 10, 2021 - Filling in more details for the final project:
-[Part 2: planning the story](part2.md)
+[Part 2: planning the story](final_project_part2.md)
+
+Mar 17, 2021 - Reflecting on the journey:
+[Part 3: summary and reflection](final_project_part3.md)
