@@ -5,6 +5,7 @@
 Planning:
 * [Part 1](final_project_part1.md)
 * [Part 2](final_project_part2.md)
+
 My final project was different in several ways from how I had envisioned it during the planning stages. Several changes include:
 
 ## Intended audience
@@ -27,7 +28,7 @@ The majority of my data, as a result, came from many psychology papers and some 
 
 The visualization part was fun. I followed the suggestions from my interviewees and tried to make them more entertaining and simpler to look at. For example, I used lipstick icons to do a usage frequency chart and a dollar-bill with wings to show how waitresses who did not wear lipsticks earned a third less in tips compared with those who wore red lipstick. 
 
-The trade-off was that I didn’t get to take advantage of popular, free visualization software and had to create those graphs in illustrator and Power Point. I had a lot of fun in the process though.  
+The trade-off was that I didn’t get to take advantage of popular, free visualization software and had to create those graphs in illustrator and Power Point. I had a lot of fun in the process though.
 
 <img width="400" alt="Screen Shot 2021-03-17 at 22 45 37" src="https://user-images.githubusercontent.com/78333023/111565906-91f97b80-8772-11eb-8783-7392817fbb5e.png">
 
