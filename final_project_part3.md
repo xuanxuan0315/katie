@@ -1,6 +1,7 @@
 # Project Summary and Reflection
 
 * [Final project](https://carnegiemellon.shorthandstories.com/lipstick--the-defier-of-tough-times-/index.html)
+
 Planning:
 * [Part 1](final_project_part1.md)
 * [Part 2](final_project_part2.md)
