@@ -30,6 +30,6 @@ The visualization part was fun. I followed the suggestions from my interviewees 
 
 The trade-off was that I didn’t get to take advantage of popular, free visualization software and had to create those graphs in illustrator and Power Point. I had a lot of fun in the process though.
 
-<img width="400" alt="Screen Shot 2021-03-17 at 22 45 37" src="https://user-images.githubusercontent.com/78333023/111565906-91f97b80-8772-11eb-8783-7392817fbb5e.png">
+<img width="600" alt="Screen Shot 2021-03-17 at 22 45 37" src="https://user-images.githubusercontent.com/78333023/111565906-91f97b80-8772-11eb-8783-7392817fbb5e.png">
 
 [Back to main page](README.md)
