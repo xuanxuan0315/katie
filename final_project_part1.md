@@ -48,7 +48,7 @@ My (intended) reader journey
 Data source: Statista
 Files: [click here](https://cmu.box.com/s/stqzz1d1g57jx0g9yvg3ann2wgtb7u00)
 
-# Medium
+## Medium
 I will use Shorthand to tell my story. As my topic (lipsticks) is colorful in nature, I plan to use incporate some strong visual elements and highlight color and aesthetics with either the Background Scrollmation format or the Reveal format in Shorthand. 
 
 [Back to main page](README.md)
