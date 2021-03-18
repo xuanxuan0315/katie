@@ -6,6 +6,8 @@ Planning:
 * [Part 1](final_project_part1.md)
 * [Part 2](final_project_part2.md)
 
+[Back to main page](README.md)
+
 My final project was different in several ways from how I had envisioned it during the planning stages. Several changes include:
 
 ## Intended audience
