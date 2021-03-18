@@ -1,7 +1,8 @@
 # Part 2  
 
 * [Part 1](final_project_part1.md)
-* [Part 3(]final_project_part3.md)
+* [Part 3](final_project_part3.md)
+
 [Back to main page](README.md)
 
 ## Persona
