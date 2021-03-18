@@ -1,5 +1,8 @@
 # Part 1
 
+* [Part 2](final_project_part2.md)
+* [Part 3](final_project_part3.md)
+
 ## Outline
 
 Since the pandemic and the lockdown, sweatpants, unwashed face and messy hair seem to have become a new way of life for many of us working from home. As a result, some industry experts predicted that one of the hardest-hit sectors would be cosmetics. Within cosmetics, lipsticks would be the biggest victim for obvious reasons. However, data shows it hasn’t been the case. My story aims to explain why it isn’t what we thought. 
