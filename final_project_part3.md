@@ -1,6 +1,6 @@
 # Project Summary and Reflection
 
-* [Final project](https://carnegiemellon.shorthandstories.com/lipstick--the-defier-of-tough-times-/index.html)
+* [My final project on Shorthand](https://carnegiemellon.shorthandstories.com/lipstick--the-defier-of-tough-times-/index.html)
 
 Planning:
 * [Part 1](final_project_part1.md)
@@ -24,7 +24,7 @@ That gave me confidence to make efforts to broaden my intended audience. To make
 
 Originally, my plan was to make the story more quantitative, using macroeconomic and marketing data to analyze the potential causes of fluctuations in lipstick sale. After realizing that my audience was more interested in the history and psychology associated with lipsticks, I decided to employ more data from psychology surveys and dig more into the history of lipstick usage around the world.
 
-## Data and data visualization   
+## Data and visualization   
 
 The majority of my data, as a result, came from many psychology papers and some of them go back 70 – 100 years. Some were summarized in tables on scanned pdfs and I had to manually recreate them in Excel before exporting to platforms like Flourish.
 
@@ -32,6 +32,6 @@ The visualization part was fun. I followed the suggestions from my interviewees 
 
 The trade-off was that I didn’t get to take advantage of popular, free visualization software and had to create those graphs in illustrator and Power Point. I had a lot of fun in the process though.
 
-<img width="600" alt="Screen Shot 2021-03-17 at 22 45 37" src="https://user-images.githubusercontent.com/78333023/111565906-91f97b80-8772-11eb-8783-7392817fbb5e.png">
+<img width="800" alt="Screen Shot 2021-03-17 at 22 45 37" src="https://user-images.githubusercontent.com/78333023/111565906-91f97b80-8772-11eb-8783-7392817fbb5e.png">
 
 [Back to main page](README.md)
